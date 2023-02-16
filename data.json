@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "name": "Ram sakal patel",
+      "email": "ram@gmail.com",
+      "mobile": "736659384",
+      "password": "1234",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Ramsakal patel",
+      "email": "ram@gmail.com",
+      "mobile": "+917355049718",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "Ramsakal patel",
+      "email": "ram@gmail.com",
+      "mobile": "+917355049718",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "ajay patel",
+      "email": "ajay@gmail.com",
+      "mobile": "78473429",
+      "password": "12345",
+      "userId": 4,
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "prod_name": "maggie",
+      "price": "14.00"
+    }
+  ],
+  "crud-data": [
+    {
+      "id": 1,
+      "name": "krishna",
+      "email": "kkg765576@gmail.com",
+      "mobile": "7651893173",
+      "password": "12345"
+    },
+    {
+      "name": "ramu",
+      "email": "ramu@gmail.com",
+      "mobile": "1234567890",
+      "password": "ramu@123",
+      "id": 2
+    },
+    {
+      "name": "mohit",
+      "email": "mohit@gmail.com",
+      "password": "00000",
+      "mobile": "123456789",
+      "id": 3
+    }
+  ],
+  "appointement": [
+    {
+      "name": "Ajay patel",
+      "mobile": "738478382",
+      "email": "ajay@gmail.com",
+      "city": "Mughalsarai",
+      "id": 13
+    },
+    {
+      "name": "Ram Ashish Patel",
+      "mobile": "6437283222",
+      "email": "ashish@gmail.com",
+      "city": "Mughalsarai",
+      "msg": "",
+      "id": 14
+    },
+    {
+      "name": "Ramsakal patel",
+      "mobile": "+917355049718",
+      "email": "ram@gmail.com.com",
+      "city": "Varanasi",
+      "id": 17
+    },
+    {
+      "name": "sahani",
+      "mobile": "+917355049718",
+      "email": "sahani@gmail.com",
+      "city": "Mughalsarai",
+      "id": 18
+    },
+    {
+      "name": "ramjanam",
+      "mobile": "45353645776",
+      "email": "ramjanam@gmail.com",
+      "city": "Mughalsarai",
+      "id": 19
+    },
+    {
+      "name": "vaibhav kasaudhan",
+      "mobile": "7675678768",
+      "email": "vaibhav123@gmail.com",
+      "city": "Mirjapur",
+      "id": 20
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "slug": "html",
+      "date": "1-2-2023",
+      "description": "the html page is used to design architecture"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "slug": "the cee",
+      "date": "1-2-2023",
+      "description": "the html page is used to architecture"
+    },
+    {
+      "title": "ram",
+      "slug": "skjdfss",
+      "date": "1-2-2023",
+      "description": "jskljl",
+      "id": 3
+    },
+    {
+      "title": "ashish",
+      "slug": "ashish",
+      "date": "1-2-2023",
+      "description": "my big brother",
+      "id": 4
+    },
+    {
+      "title": "Ram SAKAL PAtel",
+      "slug": "ram-sakal-patel",
+      "date": "14-1-2023",
+      "description": "hellow i am from ",
+      "id": 5
+    },
+    {
+      "title": "ram",
+      "slug": "ram",
+      "date": "14-1-2023",
+      "description": "ra is god",
+      "id": 6
+    },
+    {
+      "title": "MERN (mongo express react node Js)",
+      "slug": "mern-(mongo-express-react-node-js)",
+      "date": "14-1-2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget blandit massa, vel feugiat felis. Fusce commodo suscipit porta. Curabitur mollis ut dui hendrerit ultricies. Sed tempus porta sem, nec imperdiet tellus tempus scelerisque. Nunc viverra, nisl id facilisis eleifend, massa orci sollicitudin mi, vitae volutpat ligula urna at enim. Aliquam sed mattis enim, non suscipit metus. Morbi aliquet ex a mi malesuada ornare.",
+      "id": 7
+    },
+    {
+      "title": "bootstrap",
+      "slug": "bootstrap",
+      "date": "15-1-2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget blandit massa, vel feugiat felis. Fusce commodo suscipit porta. Curabitur mollis ut dui hendrerit ultricies. Sed tempus porta sem, nec imperdiet tellus tempus scelerisque. Nunc viverra, nisl id facilisis eleifend, massa orci sollicitudin mi, vitae volutpat ligula urna at enim. Aliquam sed mattis enim, non suscipit metus. Morbi aliquet ex a mi malesuada ornare.",
+      "id": 8
+    }
+  ]
+}
